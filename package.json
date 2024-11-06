@@ -3,6 +3,7 @@
   "version": "4.4.0",
   "description": "Isomorphic ponyfill wrapping native browser performance and node.js perf_hooks performance",
   "license": "MIT",
+  "type": "module",
   "main": "./dist/cjs/node.js",
   "module": "./dist/esm/node.js",
   "browser": "./dist/esm/browser.js",
